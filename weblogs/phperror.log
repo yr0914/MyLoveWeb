@@ -1,0 +1,4 @@
+[22-Oct-2017 22:01:23 Asia/Chongqing] PHP Warning:  include_once(./html/hello.html): failed to open stream: No such file or directory in /home/bae/app/index.php on line 10
+[22-Oct-2017 22:01:23 Asia/Chongqing] PHP Warning:  include_once(): Failed opening './html/hello.html' for inclusion (include_path='.:/home/admin/php/share/php:/home/admin/php/share/pear:/home/admin/runtime/baeapi') in /home/bae/app/index.php on line 10
+[22-Oct-2017 22:01:30 Asia/Chongqing] PHP Warning:  include_once(./html/hello.html): failed to open stream: No such file or directory in /home/bae/app/index.php on line 10
+[22-Oct-2017 22:01:30 Asia/Chongqing] PHP Warning:  include_once(): Failed opening './html/hello.html' for inclusion (include_path='.:/home/admin/php/share/php:/home/admin/php/share/pear:/home/admin/runtime/baeapi') in /home/bae/app/index.php on line 10

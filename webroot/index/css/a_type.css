@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+.color{color:#f00; text-decoration:none;font-weight:bold;}/*链接设置*/
+.color:visited{color:#f00; text-decoration:none;font-weight:bold;}/*访问过的链接设置*/
+.color:hover{color:#f00; text-decoration:underline;font-weight:bold;}/*鼠标放上的链接设置*/
+
+
